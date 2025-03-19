@@ -4,9 +4,9 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
  
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/Spin.gif" width="50%" height="auto" />
  
- 
 #### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
+- MCU：STM32H743、STM32F427、STM32F103、ESP32S3、ESP32PicoD4、Atmega328P、Atmega32U4、Atmega2560
+- SOC：rk3566、rk3588s
 - [My website](https://OogwayLeonardo.github.io) 🚀 *coming soon*
  
  
@@ -16,7 +16,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 - Image generation
 - YOLO
 #### 🍀 I am studying 🍀
-- EDA、CAD、DSP、ASP
+- EDA、CAD、DSP
 - ROS
 - PixHawk(PX4/APM)
 - 日本語
