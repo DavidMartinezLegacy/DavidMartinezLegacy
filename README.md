@@ -19,7 +19,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 - EDA、CAD、DSP、ASP
 - ROS
 - PixHawk(PX4/APM)
-- German
+- 日本語
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
