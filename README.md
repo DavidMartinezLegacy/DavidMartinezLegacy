@@ -17,8 +17,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 - Chat GPT
 - Stable Diffusion
 - Image generation
-- Layout2image
-- pix2pix
+- YOLO
 #### 🍀 I am studying 🍀
 - EDA、CAD、DSP、ASP
 - ROS
