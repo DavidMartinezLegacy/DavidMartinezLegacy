@@ -44,6 +44,32 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 </p>
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
 If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 02:30 IST == 21:00 UTC
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
+
+
 <!--
 **OogwayLeonardo/OogwayLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
