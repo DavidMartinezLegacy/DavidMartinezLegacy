@@ -5,7 +5,7 @@
  
 Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!  
  
-<img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/NOETIC.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/Spin.gif" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
