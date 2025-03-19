@@ -1,8 +1,5 @@
 ### Hi there 👋 This is Johnny ！✨ 
  
-🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻<br>
-🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
- 
 Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!  
  
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/Spin.gif" width="50%" height="auto" />
@@ -13,7 +10,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 - [My website](https://OogwayLeonardo.github.io) 🚀 *coming soon*
  
  
-#### ⚡ Things recent ones I'm interested in ⚡ : 
+#### 🌻 Things recent ones I'm interested in 🌻 : 
 - Chat GPT
 - Stable Diffusion
 - Image generation
@@ -40,13 +37,13 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 **OogwayLeonardo/OogwayLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+-->
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Mavlink
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: makerdemoking@foxmail.com
+- 😄 Pronouns:He
 - ⚡ Fun fact: ...
--->
+
