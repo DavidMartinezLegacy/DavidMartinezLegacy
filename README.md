@@ -3,7 +3,7 @@
 🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻<br>
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
  
-Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
+Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!  
  
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/NOETIC.png" width="50%" height="auto" />
  
