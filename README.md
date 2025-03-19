@@ -1,8 +1,7 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OogwayLeonardo)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋 This is Johnny ！✨ 
  
-
+🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
  
 Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!  
  
@@ -20,9 +19,10 @@ Welcome to my Github page! I am Lina and I am currently Learning NLP and RL!
 - Image generation
 - Layout2image
 - pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
+#### 🍀 I am studying 🍀
+- EDA、CAD、DSP、ASP
+- ROS
+- PixHawk(PX4/APM)
 - German
 #### :computer: Programming languages and tools :computer: : 
 <p>
