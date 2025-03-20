@@ -2,7 +2,7 @@
  
 Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!  
  
-<img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/Spin.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="<div class="tenor-gif-embed" data-postid="13991654724226310963" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/%E5%B4%A9%E5%A3%9E-%E6%98%9F%E7%A9%B9%E9%90%B5%E9%81%93-gif-13991654724226310963">崩壞 星穹鐵道 Sticker</a>from <a href="https://tenor.com/search/%E5%B4%A9%E5%A3%9E-stickers">崩壞 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="50%" height="auto" />
  
 #### 🌱 Things I am currently working on 🔭 : 
 - MCU：STM32H743、STM32F427、STM32F103、ESP32S3、ESP32PicoD4、Atmega328P、Atmega32U4、Atmega2560
