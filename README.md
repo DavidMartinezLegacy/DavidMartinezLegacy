@@ -34,7 +34,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 </p>
 <p align="center" style="display: inline-flex;">
     <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Swift/Swift.png?raw=true" alt="Swift" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Html/HTML.png?raw=true" alt="HTML" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Rust/Rust_Transparent.png?raw=true" alt="Rust_Transparent" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Ubuntu/Ubuntu.png?raw=true" alt="Ubuntu" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 <!--
