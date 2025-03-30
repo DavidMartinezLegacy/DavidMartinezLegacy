@@ -31,12 +31,13 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
     <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Vue/Vue.png?raw=true" alt="Vue" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Clion/Clion.png?raw=true" alt="Clion" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Vim/VIM.png?raw=true" alt="VIM" style="width: 160px; height: 90px; margin: 10px 10px;"> 
-    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
+   
 </p>
 <p align="center" style="display: inline-flex;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/C%2CC%23%2CC%2B%2B/All.png?raw=true" alt="All" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Rust/Rust_Transparent.png?raw=true" alt="Rust_Transparent" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Kotlin/Kotlin.png?raw=true" alt="Kotlin" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 <!--
 #### :computer: Programming languages and tools :computer: : 
