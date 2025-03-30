@@ -41,6 +41,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
     <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Kotlin/Kotlin.png?raw=true" alt="Kotlin" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oogway Leonardo&show_icons=true&locale=en&layout=compact" alt="Oogway Leonardo" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <!--
 #### :computer: Programming languages and tools :computer: : 
