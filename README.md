@@ -28,7 +28,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
     <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Visual Studio Code" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 <p align="center" style="display: inline-flex;">
-    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/Vue/Vue.png?raw=true" alt="Vue" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/OogwayLeonardo/img/blob/main/VisualStudioCodeRound.png?raw=true" alt="VisualStudioCodeRound" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Clion/Clion.png?raw=true" alt="Clion" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Vim/VIM.png?raw=true" alt="VIM" style="width: 160px; height: 90px; margin: 10px 10px;"> 
    
