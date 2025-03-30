@@ -38,8 +38,8 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 <p align="center" style="display: inline-flex;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/C%2CC%23%2CC%2B%2B/All.png?raw=true" alt="All" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Rust/Rust_Transparent.png?raw=true" alt="Rust_Transparent" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Kotlin/Kotlin.png?raw=true" alt="Kotlin" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Kotlin/Kotlin.png?raw=true" alt="Kotlin" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OogwayLeonardo&show_icons=true&locale=en&layout=compact" alt="OogwayLeonardo" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
