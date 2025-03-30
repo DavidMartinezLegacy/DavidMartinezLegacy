@@ -24,7 +24,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 
 <p align="center" style="display: inline-flex;">
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Github/Github.png?raw=true" alt="GitHub" style="width: 160px; height: 90px; margin: 10px 10px;">
-    <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/GitLab/GitLab.png?raw=true" alt="GitLab" style="width: 160px; height: 90px; margin: 10px 10px;">
+    <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Gitlab/Gitlab.png?raw=true" alt="GitLab" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/Lucas04-nhr/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true" alt="Visual Studio Code" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
 <p align="center" style="display: inline-flex;">
