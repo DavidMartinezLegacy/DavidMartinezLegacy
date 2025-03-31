@@ -8,7 +8,7 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 _MCU_：
 - STM32H743、STM32F427、STM32F103
 - ESP8266、ESP32S3、ESP32PicoD4
-- Atmega328P、Atmega32U4、Atmega2560
+- Atmega328P、Atmega32U4、Atmega2560<br>
 _SOC_：
 -RK3566、RK3588S
 - [My website](https://OogwayLeonardo.github.io) 🚀 *coming soon*
