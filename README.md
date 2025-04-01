@@ -3,6 +3,7 @@
 Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!  
  
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/run.gif" width="50%" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OogwayLeonardo&show_icons=true&locale=en&layout=compact" alt="OogwayLeonardo" />
  
 #### 🌱 Things I am currently working on 🌱 : 
 _MCU_：
@@ -46,8 +47,8 @@ _SOC_：<br>
     <img src="https://github.com/OogwayLeonardo/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png?raw=true" alt="Python" style="width: 160px; height: 90px; margin: 10px 10px;">
     <img src="https://github.com/OogwayLeonardo/KawaiiLogos/blob/main/Kotlin/Kotlin.png?raw=true" alt="Kotlin" style="width: 160px; height: 90px; margin: 10px 10px;">
 </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OogwayLeonardo&show_icons=true&locale=en&layout=compact" alt="OogwayLeonardo" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
+
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <!--
 #### :computer: Programming languages and tools :computer: : 
 <p>
@@ -61,8 +62,6 @@ _SOC_：<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 -->
-
-
 <!--
 **OogwayLeonardo/OogwayLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on 
@@ -73,7 +72,6 @@ _SOC_：<br>
 - 📫 How to reach me: makerdemoking@foxmail.com
 - 😄 Pronouns:He
 - ⚡ Fun fact: ...
-Here are some ideas to get you started:
--->
+
 
 
