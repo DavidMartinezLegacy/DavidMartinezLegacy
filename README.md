@@ -16,8 +16,8 @@ _SOC_：<br>
  
  
 #### 🔭 Things recent ones I'm interested in 🔭 : 
-- Chat GPT
-- Stable Diffusion
+- SLAM
+- UAV
 - OpenCV
 - YOLO
 #### 🍀 I am studying 🍀
