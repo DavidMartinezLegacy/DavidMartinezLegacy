@@ -4,9 +4,10 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
  
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/run.gif" width="50%" height="auto" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OogwayLeonardo&show_icons=true&locale=en&layout=compact" alt="OogwayLeonardo" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OogwayLeonardo&show_icons=true&hide_border=true&show_icons=true&theme=dark" />
 <!--
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 -->
 #### 🌱 Things I am currently working on 🌱 : 
 _MCU_：
