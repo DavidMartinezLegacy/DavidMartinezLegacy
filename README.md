@@ -5,7 +5,9 @@ Welcome to my Github page! I am Johnny and I am currently Learning ROS and SLAM!
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/hero-bg-xlarge-up-2x.jpg"/>
 -->
 <img align="right" alt="img" src="https://github.com/OogwayLeonardo/img/blob/main/Dollar.gif" width="50%" height="auto" />
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OogwayLeonardo" />
+-->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OogwayLeonardo&show_icons=true&hide_border=true&show_icons=true&theme=merko" />
 
 
