@@ -23,13 +23,14 @@ _SOC_：<br>
  
  
 #### 🔭 Things recent ones I'm interested in 🔭 : 
+- ROS
 - SLAM
 - UAV
 - OpenCV
 - YOLO
 #### 🍀 I am studying 🍀
-- EDA、CAD、DSP
-- ROS
+- EDA
+- CAD
 - PixHawk(PX4/APM)
 - 日本語
   ### Languages and Tools
