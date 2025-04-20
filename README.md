@@ -18,7 +18,7 @@ _MCU_：
 - Atmega328P、Atmega32U4、Atmega2560
   
 _SOC_：<br>
-- RK3566、RK3588S
+- RK3566、RK3588S、A83T、A64
 - [My website](https://OogwayLeonardo.github.io) 🚀 *coming soon*
  
  
