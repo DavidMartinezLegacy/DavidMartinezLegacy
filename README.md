@@ -31,6 +31,7 @@ _SOC_：<br>
 #### 🍀 I am studying 🍀
 - EDA
 - CAD
+- DSP
 - PixHawk(PX4/APM)
 - 日本語
   ### Languages and Tools
